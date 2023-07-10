@@ -20,7 +20,7 @@ To use ft_irc, follow these steps:
 
 1. Clone the ft_irc repository to your local machine.
    '''shell
-   git clone https://github.com/your-username/ft_irc.git
+   git clone https://github.com/statvej/ft_irc_42.git
    ''';
 
 2. Navigate to the project directory.
